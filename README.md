@@ -2,6 +2,8 @@
 
 与**Claude Code**的skills system完全吻合的实现-同时不仅仅局限于**Claude Code的skills system，它 更轻量化 更兼容 更自由化 更生态化**
 
+claude_code.mp4
+
 ## 这是什么
 
 一个python package 作为skills系统去无缝接轨所有agent框架，并将skill内容和agent使用skill能力绑定形成一个完整skill生态
