@@ -3,8 +3,9 @@
 与**Claude Code**的skills system完全吻合的实现-同时不仅仅局限于**Claude Code的skills system，它 更轻量化 更兼容 更自由化 更生态化**
 
 
-<video src="claude_code.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+
+https://github.com/user-attachments/assets/e0c7f6c6-8441-4fbf-944e-9d6e70799d50
+
 
 
 ## 这是什么
