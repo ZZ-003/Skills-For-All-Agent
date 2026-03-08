@@ -2,7 +2,7 @@
 
 与**Claude Code**的skills system完全吻合的实现-同时不仅仅局限于**Claude Code的skills system，它 更轻量化 更兼容 更自由化 更生态化**
 
-claude_code.mp4
+https://github.com/ZZ-003/Skills-For-All-Agent/blob/main/claude_code.mp4
 
 ## 这是什么
 
